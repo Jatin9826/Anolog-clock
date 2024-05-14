@@ -1,5 +1,6 @@
 # Anolog-clock
 ![Screenshot 2024-05-14 204516](https://github.com/Jatin9826/Anolog-clock/assets/167497208/5da395a0-bc4c-410b-8439-87e7f5f32090)
+ 
  steps to create a simple analog clock project using HTML, CSS, and JavaScript:
 
 1. **Set Up Project Structure**: Create a new directory for your project and add three files: `index.html`, `style.css`, and `script.js`.
